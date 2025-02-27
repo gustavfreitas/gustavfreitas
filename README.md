@@ -1,4 +1,13 @@
 ## Olá, eu sou o Gustavo estudante de programação e Ciências da Computação!
 
-[![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavfreitas)](https://github.com/gustavfreitas/github-readme-stats&theme=tokyonight)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavfreitas&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavfreitas&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavfreitas&show_icons=true" />
+</picture>
