@@ -8,3 +8,11 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavfreitas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&border_radius=3&count_private=true&theme=radical" alt="Linguagens mais usadas">
   </a>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gus-C++" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222">
+  <img align="center" alt="Gus-C#" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/do-sustenido_6132221?term=c&page=1&position=4&origin=search&related_id=6132221">
+</div>
