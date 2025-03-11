@@ -14,5 +14,5 @@
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gus-C++" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222">
-  <img align="center" alt="Gus-C#" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/do-sustenido_6132221?term=c&page=1&position=4&origin=search&related_id=6132221">
+  <img align="center" alt="Gus-C#" height="30" width="40" src="C:\Users\gustavo.sfreitas12\Downloads\c-.png">
 </div>
