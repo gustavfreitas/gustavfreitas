@@ -16,5 +16,5 @@
   <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Gus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gus-PT" height="30" width="40 "src="https://cdn.jsdelivr.net/npm/@portugol-recursos/bibliotecas@0.0.0-dev.6/index.min.js">
+  <img align="center" alt="Gus-PT" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
 </div>
