@@ -10,11 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Gus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Gus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gus-PT" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
+  <img align="center" alt="Icone do HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Icone do CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Icone do JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Icone do C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Icone do C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Icone do C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Icone do SQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
+  <img align="center" alt="Icone do PostgreSQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
+  <img align="center" alt="Icone do Python" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
+  ![Icone do Excel](url da img)
 </div>
