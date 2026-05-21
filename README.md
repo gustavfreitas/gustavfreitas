@@ -1,28 +1,28 @@
-## Bem Vindo, este é o meu Perfil do Github, veja meus projetos e portfólios!
+## Bem Vindo(a) 
 
 
 #### Tecnologias Utilizadas
 <div style="display: inline_block">
     
-  <img align="center" alt="Icon do Python" height="50" width="60" 
+  <img align="center" alt="Icon do Python" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Icon do Pandas" height="50" width="60" 
+  <img align="center" alt="Icon do Pandas" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Icon do Pandas" height="50" width="60"
+  <img align="center" alt="Icon do Pandas" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Icon do Matplotlib" height="50" width="60"
+  <img align="center" alt="Icon do Matplotlib" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />
-  <img align="center" alt="Icon do R" height="50" width="60" 
+  <img align="center" alt="Icon do R" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img align="center" alt="Icon do SQL Server" height="50" width="60" 
+  <img align="center" alt="Icon do SQL Server" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img align="center" alt="Icon do Postgre SQL" height="50" width="60" 
+  <img align="center" alt="Icon do Postgre SQL" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Icon HTML" height="50" width="60" 
+  <img align="center" alt="Icon HTML" height="50" width="50" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon CSS" height="50" width="60" 
+  <img align="center" alt="Icon CSS" height="50" width="50" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon JavaScript" height="50" width="60" 
+  <img align="center" alt="Icon JavaScript" height="50" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   
 </div>
