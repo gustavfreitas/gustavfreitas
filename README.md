@@ -1,7 +1,7 @@
-## Bem Vindo(a) 
+## Bem Vindo(a) 👋
 
 
-#### Tecnologias Utilizadas
+#### Tecnologias Utilizadas 💻
 
 <div style="display: inline_block">
     
@@ -28,7 +28,7 @@
   
 </div>
 
-#### Meus contatos
+#### Meus contatos 📬
 
 <div style="display: inline_block">
     
