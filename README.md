@@ -2,6 +2,7 @@
 
 
 #### Tecnologias Utilizadas
+
 <div style="display: inline_block">
     
   <img align="center" alt="Icon do Python" height="50" width="50" 
@@ -29,19 +30,19 @@
 
 #### Meus contatos
 
-<div>
+<div style="display: inline_block">
     
-  <img align="center" alt="Gmail" 
+  <a href = "mailto:gu.gusta.freitas@gmail.com" target="_blank"><img align="center" alt="Gmail" 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img align="center" alt="Meu Site de Portfólio" 
-      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-  <img align="center" alt="Github" 
+  <a href = "gustavfreitas.github.io/Dev_Link/" target="_blank"><img align="center" alt="Meu Site de Portfólio" 
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  <a href = "https://github.com/gustavfreitas" target="_blank"> <img align="center" alt="Github" 
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Microsoft Outlook" 
+  <a href = "mailto:gu.gusta.freitas@hotmail.com" target="_blank"><img align="center" alt="Microsoft Outlook" 
       src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  <img align="center" alt="LinkedIn"
+  <a href = "https://www.linkedin.com/in/gs-freitas/" target="_blank"><img align="center" alt="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img align="center" alt="WhatsApp" 
+  <a href="https://wa.me" target="_blank"><img align="center" alt="WhatsApp" 
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   
 </div>
