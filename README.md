@@ -19,5 +19,5 @@
   <img align="center" alt="Icone do SQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
   <img align="center" alt="Icone do PostgreSQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
   <img align="center" alt="Icone do Python" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
-  ![Icone do Excel](url da img)
+<img width="40" height="30" alt="Excel Icon" src="https://github.com/user-attachments/assets/05eba068-8ac0-4cd7-8960-82491ff696df" />
 </div>
