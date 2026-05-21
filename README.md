@@ -14,9 +14,8 @@
   <img align="center" alt="Icone do CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Icone do JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" alt="Icone do C" src="https://github.com/user-attachments/assets/15cc25c5-ea90-414a-9cc1-1cc268b0ae91"/>
-
-  <img align="center" alt="Icone do C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Icone do C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" alt="Icone do C++" src="https://github.com/user-attachments/assets/98bfb906-6bab-4626-831d-f69ee61406ca" />
+  <img align="center" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/197f6026-5fc0-4fbb-b527-32aeb4e93819" />
   <img align="center" alt="Icone do SQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
   <img align="center" alt="Icone do PostgreSQL" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
   <img align="center" alt="Icone do Python" height="30" width="40 "src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png">
