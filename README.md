@@ -1,13 +1,16 @@
 ## Bem Vindo, este é o meu Perfil do Github, veja meus projetos e portfólios!
 
-<div>
-  <br>
-  <picture>
+
+<picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=gustavfreitas&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
     />
   </picture> 
+  
+<div>
+  <br>
+  
 
   <a href="https://github.com/gustavfreitas/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavfreitas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&border_radius=3&count_private=true&theme=radical" alt="Linguagens mais usadas">
