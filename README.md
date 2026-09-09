@@ -29,7 +29,7 @@
   <a href = "mailto:gu.gusta.freitas@gmail.com" target="_blank"><img align="center" alt="Gmail" 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href = "https://portfolio-tawny-one-99.vercel.app/" target="_blank"><img align="center" alt="Meu Site de Portfólio" 
-      src="" target="_blank">
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   <a href = "https://github.com/gustavfreitas" target="_blank"> <img align="center" alt="Github" 
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <a href = "mailto:gu.gusta.freitas@hotmail.com" target="_blank"><img align="center" alt="Microsoft Outlook" 
