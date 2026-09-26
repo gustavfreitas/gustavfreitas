@@ -56,6 +56,7 @@ Transformo dados em decisões. Trabalho com análise, modelagem e automação de
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       </p>
       <a href="https://github.com/gustavfreitas/feedback-bancario"><strong>🔗 Ver repositório »</strong></a>
     </td>
@@ -63,8 +64,9 @@ Transformo dados em decisões. Trabalho com análise, modelagem e automação de
       <h3>📌 [Data_Vigil]</h3>
       <p>[Projeto de Ciência de Dados voltado à detecção de anomalias e potenciais fraudes em transações de cartão, utilizando Python, Machine Learning e técnicas de avaliação para lidar com classes altamente desbalanceadas.]</p>
       <p>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
       </p>
       <a href="https://github.com/gustavfreitas/data-vigil"><strong>🔗 Ver repositório »</strong></a>
     </td>
@@ -74,7 +76,9 @@ Transformo dados em decisões. Trabalho com análise, modelagem e automação de
       <h3>📌 [A.X.E.L]</h3>
       <p>[Assistente técnico desenvolvido em Python com IA Generativa local, capaz de interpretar problemas em código Python e SQL, auxiliar na identificação de erros e sugerir otimizações por meio de Engenharia de Prompt em camadas.]</p>
       <p>
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/IA_Generativa-8A2BE2?style=flat-square" alt="IA Generativa"/>
       </p>
       <a href="https://github.com/gustavfreitas/A.X.E.L"><strong>🔗 Ver repositório »</strong></a>
     </td>
@@ -82,7 +86,8 @@ Transformo dados em decisões. Trabalho com análise, modelagem e automação de
       <h3>📌 [ADOs - Fisica Extensiva]</h3>
       <p>[Projeto acadêmico de aplicação computacional da Física, utilizando Python e ferramentas de visualização para transformar modelos e equações físicas em simulações e análises interativas de diferentes fenômenos.]</p>
       <p>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>    
       </p>
       <a href="https://github.com/gustavfreitas/pi_fisica_extensiva"><strong>🔗 Ver repositório »</strong></a>
     </td>
