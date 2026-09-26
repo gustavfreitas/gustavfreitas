@@ -1,42 +1,109 @@
-## Bem Vindo(a) 👋
+<div align="center">
 
+# Olá, sou o Gustavo Freitas 👋
 
-#### Tecnologias Utilizadas 💻
+### 🚧 [Estudante de Ciência da Computação | Cientista de Dados] 🚧
 
-<div style="display: inline_block">
-    
-  <img align="center" alt="Icon do Python" height="50" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Icon do Pandas" height="50" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Icon do Pandas" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Icon do Matplotlib" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />
-  <img align="center" alt="Icon do R" height="50" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img align="center" alt="Icon do SQL Server" height="50" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img align="center" alt="Icon do Postgre SQL" height="50" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  
+Transformo dados em decisões. Trabalho com análise, modelagem e automação de dados usando Python, R e SQL, construindo soluções que vão da extração à visualização de insights.
+
+📫 Sinta-se à vontade para entrar em contato — estou sempre aberto a novas oportunidades e colaborações.
+
 </div>
 
-#### Meus contatos 📬
+<br>
 
-<div style="display: inline_block">
-    
-  <a href = "mailto:gu.gusta.freitas@gmail.com" target="_blank"><img align="center" alt="Gmail" 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href = "https://portfolio-tawny-one-99.vercel.app/" target="_blank"><img align="center" alt="Meu Site de Portfólio" 
-      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-  <a href = "https://github.com/gustavfreitas" target="_blank"> <img align="center" alt="Github" 
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <a href = "mailto:gu.gusta.freitas@hotmail.com" target="_blank"><img align="center" alt="Microsoft Outlook" 
-      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  <a href = "https://www.linkedin.com/in/gs-freitas/" target="_blank"><img align="center" alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://wa.me/5511994707001" target="_blank"><img align="center" alt="WhatsApp" 
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  
+## 🛠️ Stack Tecnológica
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Data Science & Análise de Dados**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Bancos de Dados**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavfreitas&theme=tokyonight&hide_border=true" alt="Streak de contribuições no GitHub" />
+
+<br>
+
+</div>
+
+<br>
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📌 [Feedback_Bancário]</h3>
+      <p>[Projeto de análise de Customer Experience com dados sintéticos de um banco digital, utilizando ETL, PostgreSQL e análise exploratória para identificar padrões de insatisfação, problemas recorrentes e oportunidades de melhoria no atendimento.]</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      </p>
+      <a href="https://github.com/gustavfreitas/feedback-bancario"><strong>🔗 Ver repositório »</strong></a>
+    </td>
+    <td width="50%">
+      <h3>📌 [Data_Vigil]</h3>
+      <p>[Projeto de Ciência de Dados voltado à detecção de anomalias e potenciais fraudes em transações de cartão, utilizando Python, Machine Learning e técnicas de avaliação para lidar com classes altamente desbalanceadas.]</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </p>
+      <a href="https://github.com/gustavfreitas/data-vigil"><strong>🔗 Ver repositório »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📌 [A.X.E.L]</h3>
+      <p>[Assistente técnico desenvolvido em Python com IA Generativa local, capaz de interpretar problemas em código Python e SQL, auxiliar na identificação de erros e sugerir otimizações por meio de Engenharia de Prompt em camadas.]</p>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      </p>
+      <a href="https://github.com/gustavfreitas/A.X.E.L"><strong>🔗 Ver repositório »</strong></a>
+    </td>
+    <td width="50%">
+      <h3>📌 [ADOs - Fisica Extensiva]</h3>
+      <p>[Projeto acadêmico de aplicação computacional da Física, utilizando Python e ferramentas de visualização para transformar modelos e equações físicas em simulações e análises interativas de diferentes fenômenos.]</p>
+      <p>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
+      </p>
+      <a href="https://github.com/gustavfreitas/pi_fisica_extensiva"><strong>🔗 Ver repositório »</strong></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gs-freitas/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gu.gusta.freitas@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tawny-one-99.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994707001)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>⭐️ Se algum projeto aqui te ajudou, considere deixar uma estrela!</sub>
 </div>
