@@ -32,7 +32,7 @@ Transformo dados em decisões. Trabalho com análise, modelagem e automação de
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatística do GitHub
 
 <div align="center">
 
